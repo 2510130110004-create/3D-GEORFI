@@ -1,0 +1,6 @@
+{
+  "name": "GeoAtmosfer 3D · Angin Darat & Angin Laut",
+  "description": "Media pembelajaran 3D interaktif Geografi Kelas X SMA: Proses sebab-akibat terjadinya Angin Darat dan Angin Laut melalui visualisasi suhu, tekanan udara, dan sirkulasi konveksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
